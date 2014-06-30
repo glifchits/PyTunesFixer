@@ -1,0 +1,28 @@
+REALLY FANTASTIC TESTS THAT IT NEEDS TO WORK WITH FOR 1.0:
+1491027
+
+BUGS/IMPORTANT TO DO:
+- Some writers just aren't showing up anymore (may have something to do with
+  duplicate fix (see below))
+- Fix album artist things!
+- Fix unicode issues in realname_exceptions file
+- Figure out how to deal with bands that have former members
+- Multi-part track concatenation/handling in general
+- Non-latin character names... see track 12 composers for 2771174
+X Fix eg. DJ Mehdi & Fafi feat. Fafi
+
+SUPERFICIAL ISSUES:
+- Proper debugging output
+- Threading for get artist realname
+X sort matched track output by track number
+
+BIG FEATURE REQUESTS:
+- build in album artwork using PIL
+- re-arrange matched tracks in program
+- auto-genre
+- GUI
+
+CHANGELOG since 07-07-2012:
+06-09-2012: Refactored multiple modules into a single set of classes 
+			(discogs_tracklist)
+07-07-2012: Featured artists appearing in the global credits are now considered

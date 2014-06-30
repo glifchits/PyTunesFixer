@@ -1,0 +1,16 @@
+#SYNTAX: The full real name that exists on Discogs goes in the first line.
+#        The next line contains the name you want to show up.
+#  NOTE: Two lines are dedicated to EACH artist; first line is COMPLETE Discogs original,
+#		 second is what you want to see.
+#  NOTE: If this isn't working, keep in mind that Discogs prob has more middle names you 
+#		 don't have copied into here. Go to the original artist page and copy the full name.
+Guillaume Emmanuel de Homem-Christo
+Guy-Manuel de Homem-Christo
+Richard David James
+Richard D. James
+Thomas Edward Yorke
+Thom Yorke
+George Roger Waters
+Roger Waters
+Robert Alan Ezrin
+Bob Ezrin
